@@ -4,6 +4,16 @@
 
 A simple HTML project to practice HTML tags like H1, H2, ARTICLE, EM, and STRONG.
 
+### Instructions
+
+1. Have a look at cats.html. (You will want to re-type this in dogs.html.)
+2. Start with the H1 tag and first P tag.
+3. Add your own text about dogs in the H1 and P tags
+4. Add EM and STRONG tags in the first P tag
+5. Add an ARTICLE tag with an H2 and two P tags.
+6. Add your own text in those tags. (You may use lorem ipsum)
+7. (optional) Make another HTML file about a new topic that interests you. Include the ARTICLE, H1, H2, P, EM and STRONG tags.
+
 ## Built With
 
 * Git
