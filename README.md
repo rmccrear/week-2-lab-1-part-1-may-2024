@@ -1,4 +1,4 @@
-# week-1-git-practice-may-2024
+# Lab 1 Part 1
 
 ## About
 
