@@ -35,6 +35,14 @@ A simple HTML project to practice HTML tags like H1, H2, ARTICLE, EM, and STRONG
 - [ ] Make more HTML files on different topics (optional)
 - [ ] Commit and sync to Github
 
+### Bonus and Extension
+
+You may choose to do a bonus or extension. These are optional activities that will help push your knowledge and skills further. Give them a try if you have the time!
+
+**Bonus** (more tags): look at all [INLINE and BLOCK tags on w3 Schools](https://www.w3schools.com/html/html_blocks.asp). Which would be easy to use? Which are challenging? Choose a few to add as elements on your page.
+
+**Extension** (deprecated tags): See: [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML). Look for deprecated tags. Research why they are no longer used. Dig up the history behind why these tags fell out of use. Create a webpage of your findings using the deprecated tags and their replacements.
+
 ## Contact
 
 Author: robert.mccreary@codex.academy
